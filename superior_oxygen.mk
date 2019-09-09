@@ -26,7 +26,7 @@ $(call inherit-product, vendor/havoc/config/common.mk)
 
 # Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := oxygen
-PRODUCT_NAME := havoc_oxygen
+PRODUCT_NAME := superior_oxygen
 PRODUCT_BRAND := Xiaomi
 PRODUCT_MODEL := Mi Max 2
 PRODUCT_MANUFACTURER := Xiaomi
